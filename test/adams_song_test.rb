@@ -1,6 +1,6 @@
 require 'minitest/autorun'
 require 'minitest/pride'
-require_relative '../lib/adams/song.rb'
+require_relative '../lib/adams_song.rb'
 
 class TestStringAdamsSong <  Minitest::Test
 
