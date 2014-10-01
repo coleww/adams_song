@@ -1,4 +1,4 @@
-require "adams/song/version"
+require "adams_song/version"
 
 class String
 
@@ -15,4 +15,5 @@ class String
     !!(that.match /remember the time that i spilled the cup of apple juice in the hall please tell mom this is not her fault/)
 
   end
+
 end
